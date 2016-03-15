@@ -1,0 +1,18 @@
+GetInfo Tools Suite
+
+
+Required:
+  * SSHPass is required to pass the user login for ssh.
+
+TODO:
+
+  Recorded Statistics:
+    - number of active sessions
+    - number of sessions per user
+
+    - usage pie chart for users
+
+    - average idol time
+    - average session time
+
+    - totals

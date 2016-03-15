@@ -1,0 +1,8 @@
+username = "username"
+password = "passwird"
+hosts = ["ssh1.example.com","ssh2.example.com","ssh3.example.com"]
+command = "w | grep -v \"average\" | grep -v \"USER\""
+delay = 900
+logdir = "log/"
+
+
